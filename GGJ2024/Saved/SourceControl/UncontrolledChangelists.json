@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/Main_Map.umap",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/BP/BP_Object_Parent.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/BP/BP_Player.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/BP/BP_MainGameMod.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/Data_Table/DS_Object.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/Data_Table/DT_Object.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/GGJ2024/Content/_GENERATED/ElDia/Box_87F62B43.uasset"
+			]
+		}
+	]
+}
